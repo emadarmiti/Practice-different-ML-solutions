@@ -2,7 +2,7 @@
 
 In this project we use different Machine Learning algorithms (Linear Model, Ridge, KNN, and Decision Tree) to predict the number of bike rentals using the Bike Sharing Demand dataset from Kaggle : [Dataset](https://www.kaggle.com/c/bike-sharing-demand/data)
 
-## Project Architecture
+## Project Structure
 
 - General Look at the Data
 
